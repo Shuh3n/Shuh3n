@@ -1,4 +1,7 @@
-## Hi there 👋
+# Bueeeenas! , soy Shuh3n 👋
+
+## 🌐 Redes
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miguee__f) 
 
 <!--
 **Shuh3n/Shuh3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
