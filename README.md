@@ -1,7 +1,63 @@
-# Bueeeenas! , soy Shuh3n 👋
+# Bueeeenas! , soy Santiago 👋
+<div>
+  <img src="https://imgur.com/pTxzQKj.png">
+</div>
+
+Mi nombre es Santiago Orozco Zuluaga, tengo 19 años, soy estudiante de la Universidad del Quindío en Colombia, voy en mi sexto semestre de Ingenieía de Sistemas y Computación. Actualmente estoy centrandome en aprender:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23f3e31c?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%232488f8?style=for-the-badge&logo=react&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%23046b4b?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%232488f8?style=for-the-badge&logo=typescript&logoColor=black) 
+![Static Badge](https://img.shields.io/badge/Figma-%238b55fa?style=for-the-badge&logo=figma&logoColor=black)
+
+
+
+
+
+
+
 
 ## 🌐 Redes
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miguee__f) 
+![Static Badge](https://img.shields.io/badge/Instagram-%23fa069e?style=social&logo=instagram&color=%23fa069e)
+
+
+
+
+
+
+## 🛠️ Conocimientos 
+![Python](https://img.shields.io/badge/Python-%2379eeb6?style=for-the-badge&logo=python&logoColor=black) ![Appsheet](https://img.shields.io/badge/Appsheet-%232c7dbc?style=for-the-badge&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23FFC300?style=for-the-badge&logoColor=black) ![HTML5](https://img.shields.io/badge/Html-%23ec5424?style=for-the-badge&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-%232c7dbc?style=for-the-badge&logo=css3&logoColor=black)
+
+
+
+
+
+
+
+## Stats
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Shuh3n&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shuh3n&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shuh3n&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+</p>      
+
 
 <!--
 **Shuh3n/Shuh3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
