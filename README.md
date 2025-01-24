@@ -50,13 +50,12 @@ Mi nombre es Santiago Orozco Zuluaga, tengo 19 años de edad, soy estudiante de 
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Shuh3n&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shuh3n&theme=dark&hide_border=false" /> 
+  <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shuh3n&theme=dark&hide_border=false" /> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shuh3n&theme=dark" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shuh3n&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
   </td>
 </tr>
 </table>
