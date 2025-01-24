@@ -5,7 +5,7 @@
   <img src="https://imgur.com/pTxzQKj.png">
 </div>
 
-Mi nombre es Santiago Orozco Zuluaga, tengo 19 años, soy estudiante de la Universidad del Quindío en Colombia, voy en mi sexto semestre de Ingenieía de Sistemas y Computación.
+Mi nombre es Santiago Orozco Zuluaga, tengo 19 años de edad, soy estudiante de la Universidad del Quindío en Colombia, voy en mi sexto semestre de Ingeniería de Sistemas y Computación.
 
 
 ### Actualmente aprendiendo
