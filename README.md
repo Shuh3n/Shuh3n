@@ -1,9 +1,14 @@
 # Bueeeenas! , soy Santiago 👋
+### Mi página WEB: https://shuh3n.github.io/portfolioShuh3n/
+
 <div>
   <img src="https://imgur.com/pTxzQKj.png">
 </div>
 
-Mi nombre es Santiago Orozco Zuluaga, tengo 19 años, soy estudiante de la Universidad del Quindío en Colombia, voy en mi sexto semestre de Ingenieía de Sistemas y Computación. Actualmente estoy centrandome en aprender:
+Mi nombre es Santiago Orozco Zuluaga, tengo 19 años, soy estudiante de la Universidad del Quindío en Colombia, voy en mi sexto semestre de Ingenieía de Sistemas y Computación.
+
+
+### Actualmente aprendiendo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f3e31c?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%232488f8?style=for-the-badge&logo=react&logoColor=black) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23046b4b?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%232488f8?style=for-the-badge&logo=typescript&logoColor=black) 
@@ -17,7 +22,9 @@ Mi nombre es Santiago Orozco Zuluaga, tengo 19 años, soy estudiante de la Unive
 
 
 ## 🌐 Redes
-![Static Badge](https://img.shields.io/badge/Instagram-%23fa069e?style=social&logo=instagram&color=%23fa069e)
+![Instragram](https://img.shields.io/badge/Instragram-%23fa069e?style=social&logo=instagram&color=%23fa069e&link=instagram.com%2Fphotosoz_)
+ ![Gmail](https://img.shields.io/badge/Gmail-%23fa069e?style=social&logo=gmail&color=%23fa069e&link=mailto%3Asantiagoorozcozuluaga%40gmail.com)
+
 
 
 
@@ -26,7 +33,7 @@ Mi nombre es Santiago Orozco Zuluaga, tengo 19 años, soy estudiante de la Unive
 
 ## 🛠️ Conocimientos 
 ![Python](https://img.shields.io/badge/Python-%2379eeb6?style=for-the-badge&logo=python&logoColor=black) ![Appsheet](https://img.shields.io/badge/Appsheet-%232c7dbc?style=for-the-badge&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23FFC300?style=for-the-badge&logoColor=black) ![HTML5](https://img.shields.io/badge/Html-%23ec5424?style=for-the-badge&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-%232c7dbc?style=for-the-badge&logo=css3&logoColor=black)
+![HTML5](https://img.shields.io/badge/Html-%23ec5424?style=for-the-badge&logo=html5&logoColor=black) ![Java](https://img.shields.io/badge/Java-%23FFC300?style=for-the-badge&logoColor=black)  ![CSS](https://img.shields.io/badge/CSS-%232c7dbc?style=for-the-badge&logo=css3&logoColor=black)
 
 
 
