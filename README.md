@@ -12,7 +12,7 @@ Mi nombre es Santiago Orozco Zuluaga, tengo 19 años de edad, soy estudiante de 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f3e31c?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%232488f8?style=for-the-badge&logo=react&logoColor=black) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23046b4b?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%232488f8?style=for-the-badge&logo=typescript&logoColor=black) 
-![Static Badge](https://img.shields.io/badge/Figma-%238b55fa?style=for-the-badge&logo=figma&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-%23dc0411?style=for-the-badge&logo=angular) ![SpringBoot](https://img.shields.io/badge/Sping%20Boot-%2370b43c?style=for-the-badge&logo=springboot&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Figma-%238b55fa?style=for-the-badge&logo=figma&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-%23dc0411?style=for-the-badge&logo=angular) ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%2370b43c?style=for-the-badge&logo=springboot&logoColor=white)
 
 
 
