@@ -47,19 +47,28 @@
 
 ## 📊 Estadísticas de GitHub
 
-### Perfil General
+> Estadísticas generadas con las siguientes librerías:
+> - [**github-profile-summary-cards**](https://github.com/vn7n24fzkq/github-profile-summary-cards) — Stats generales y lenguajes
+> - [**streak-stats**](https://github.com/DenverCoder1/github-readme-streak-stats) — Racha de contribuciones
+> - [**github-profile-trophy**](https://github.com/ryo-ma/github-profile-trophy) — Trofeos de perfil
+> - [**github-readme-activity-graph**](https://github.com/Ashutosh00710/github-readme-activity-graph) — Gráfico de actividad
+
 <div align="center">
-  
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Shuh3n&theme=nightowl&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Racha de Contribuciones
-[![Racha de GitHub](https://streak-stats.demolab.com/?user=Shuh3n&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### 📈 Perfil General
+![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shuh3n&theme=nightowl)
 
-### Lenguajes más Usados
-[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuh3n&layout=compact&theme=nightowl&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+### 🔥 Racha de Contribuciones
+![Racha de GitHub](https://streak-stats.demolab.com/?user=Shuh3n&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-### Trofeos de GitHub
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Shuh3n&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+### 👨‍💻 Lenguajes más Usados
+![Lenguajes Top](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shuh3n&theme=nightowl)
+
+### 🏆 Trofeos de GitHub
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Shuh3n&theme=nightowl&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+### 📉 Gráfico de Actividad
+![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Shuh3n&theme=nightowl&hide_border=true&area=true)
 
 </div>
 
