@@ -20,17 +20,17 @@
 
 ---
 
-### 🧑‍💻 Sobre mí
+<img src="assets/title-sobre-mi.svg" alt="Sobre mí" />
 
 - 🎓 Cursando **noveno semestre** de Ingeniería de Sistemas y Computación
 - 🌱 Profundizando en **React, Angular y Spring Boot**
 - ✨ Apasionado por construir con **Framer Motion**: sitios con animaciones y scroll brutales
 - 💼 No estoy trabajando actualmente — abierto a oportunidades y proyectos
-- 📫 Contacto: **SAntiago.orozcoz.dev@gmail.com**
+- 📫 Contacto: **santiago.orozcoz.dev@gmail.com**
 
 ---
 
-### 🚀 Tecnologías
+<img src="assets/title-tecnologias.svg" alt="Tecnologías" />
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+<img src="assets/title-estadisticas.svg" alt="Estadísticas de GitHub" />
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 ---
 
-## 🌐 Conecta conmigo
+<img src="assets/title-conecta.svg" alt="Conecta conmigo" />
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 <a href="https://instagram.com/photosoz_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:SAntiago.orozcoz.dev@gmail.com">
+<a href="mailto:santiago.orozcoz.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Shuh3n" target="_blank">
