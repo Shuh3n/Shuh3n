@@ -6,91 +6,100 @@
 
 # ¡Hola! Soy Santiago 👋
 
-### 💻 Ingeniería de Sistemas y Computación
-**Universidad del Quindío - Colombia**
-
----
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2488F8&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+de+Sistemas+y+Computaci%C3%B3n;Universidad+del+Quind%C3%ADo+-+Colombia;Apasionado+por+el+desarrollo+de+software" alt="Typing SVG" />
 
 <p align="center">
-  Mi nombre es <b>Santiago Orozco Zuluaga</b>, tengo <b>20 años</b> de edad. <br>
-  Actualmente curso mi octavo semestre. <br>
+  Mi nombre es <b>Santiago Orozco Zuluaga</b>, tengo <b>20 años</b>. <br>
+  Actualmente curso mi <b>noveno semestre</b>. <br>
   <i>Me apasiona el desarrollo de software y la creación de soluciones tecnológicas.</i>
 </p>
 
 [🌐 Visita mi Portafolio Web](https://shuh3nport.vercel.app/)
 
----
-
-## 🚀 Tecnologías
-
-### Actualmente aprendiendo
-<img src="https://img.shields.io/badge/JavaScript-%23f3e31c?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-%232488f8?style=for-the-badge&logo=typescript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-%232488f8?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Angular-%23dc0411?style=for-the-badge&logo=angular&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Spring%20Boot-%2370b43c?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%23046b4b?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-%238b55fa?style=for-the-badge&logo=figma&logoColor=black" />
-
-### Conocimientos y Herramientas
-<img src="https://img.shields.io/badge/Python-%2379eeb6?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-%23FFC300?style=for-the-badge&logo=java&logoColor=black" />
-<img src="https://img.shields.io/badge/Appsheet-%232c7dbc?style=for-the-badge&logo=google-sheets&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Html-%23ec5424?style=for-the-badge&logo=html5&logoColor=black" />
-<img src="https://img.shields.io/badge/CSS-%232c7dbc?style=for-the-badge&logo=css3&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-%23f44c34?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+### 🧑‍💻 Sobre mí
 
-> Estadísticas generadas con las siguientes librerías:
-> - [**github-profile-summary-cards**](https://github.com/vn7n24fzkq/github-profile-summary-cards) — Stats generales y lenguajes
-> - [**streak-stats**](https://github.com/DenverCoder1/github-readme-streak-stats) — Racha de contribuciones
-> - [**github-profile-trophy**](https://github.com/ryo-ma/github-profile-trophy) — Trofeos de perfil
-> - [**github-readme-activity-graph**](https://github.com/Ashutosh00710/github-readme-activity-graph) — Gráfico de actividad
+- 🎓 Cursando **noveno semestre** de Ingeniería de Sistemas y Computación
+- 🌱 Profundizando en **React, Angular y Spring Boot**
+- ✨ Apasionado por construir con **Framer Motion**: sitios con animaciones y scroll brutales
+- 💼 No estoy trabajando actualmente — abierto a oportunidades y proyectos
+- 📫 Contacto: **SAntiago.orozcoz.dev@gmail.com**
+
+---
+
+### 🚀 Tecnologías
 
 <div align="center">
 
-### 📈 Perfil General
-![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shuh3n&theme=nightowl)
+**Actualmente aprendiendo**
 
-### 🔥 Racha de Contribuciones
-![Racha de GitHub](https://streak-stats.demolab.com/?user=Shuh3n&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-### 👨‍💻 Lenguajes más Usados
-![Lenguajes Top](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shuh3n&theme=nightowl)
+**Conocimientos y herramientas**
 
-### 🏆 Trofeos de GitHub
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Shuh3n&theme=nightowl&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-### 📉 Gráfico de Actividad
-![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Shuh3n&theme=nightowl&hide_border=true&area=true)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-FFC300?style=for-the-badge&logo=java&logoColor=black" />
+<img src="https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google-sheets&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 ---
 
-## 🌐 Conecta conmigo
+## 📊 Estadísticas de GitHub
 
-<a href="https://instagram.com/photosoz_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23fa069e?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:santiagoorozcozuluaga@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/santiago-orozco-zuluaga-401425245/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Shuh3n" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Shuh3n&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones"/>
+
+<img src="https://img.shields.io/github/followers/Shuh3n?style=for-the-badge&logo=github&label=Followers&color=2488F8" alt="Followers"/>
+
+### 📉 Actividad
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shuh3n&theme=nightowl&hide_border=true&area=true" alt="Gráfico de actividad" width="100%"/>
+
+</div>
+
+> Generado con [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) y [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
+>
+>
 
 ---
 
-⭐️ *Si te gusta lo que hago, considera darle una estrella a mis repositorios*
+## 🌐 Conecta conmigo
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/santiagoorozcoz" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/photosoz_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:SAntiago.orozcoz.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Shuh3n" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+⭐️ Si te gusta lo que hago, considerá darle una estrella a mis repositorios
 </div>
