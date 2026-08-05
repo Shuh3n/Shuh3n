@@ -6,7 +6,7 @@
 
 # ¡Hola! Soy Santiago 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2488F8&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+de+Sistemas+y+Computaci%C3%B3n;Universidad+del+Quind%C3%ADo+-+Colombia;Apasionado+por+el+desarrollo+de+software" alt="Typing SVG" />
+<img src="assets/intro-animated.svg" alt="Intro animada" />
 
 <p align="center">
   Mi nombre es <b>Santiago Orozco Zuluaga</b>, tengo <b>20 años</b>. <br>
@@ -74,8 +74,6 @@
 </div>
 
 > Generado con [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) y [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
->
->
 
 ---
 
