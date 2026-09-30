@@ -69,9 +69,9 @@
 
 ### 📉 Actividad
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shuh3n&theme=nightowl&hide_border=true&area=true" alt="Gráfico de actividad" width="100%"/>
-
-<img src="assets/isocalendar-fullyear.svg" alt="Calendario de contribuciones 3D" width="100%"/>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shuh3n&theme=nightowl&hide_border=true&area=true" alt="Gráfico de actividad de Shuh3n" width="100%"/>
+</a>
 
 </div>
 
