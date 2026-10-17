@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://imgur.com/pTxzQKj.png" width="100%" style="max-width: 800px;" alt="Banner Santiago">
+  <img src="https://imgur.com/pTxzQKj.png" width="100%" alt="Banner de Santiago Orozco">
 </div>
 
 <div align="center">
 
 # ¡Hola! Soy Santiago 👋
 
-<img src="assets/intro-animated.svg" alt="Intro animada" />
+<img src="assets/intro-animated.svg" alt="Texto animado de presentación" />
 
-<p align="center">
-  Mi nombre es <b>Santiago Orozco Zuluaga</b>, tengo <b>20 años</b>. <br>
-  Actualmente curso mi <b>noveno semestre</b>. <br>
-  <i>Me apasiona el desarrollo de software y la creación de soluciones tecnológicas.</i>
-</p>
+**Estudiante de Ingeniería de Sistemas y Computación** que construye interfaces web con animaciones cuidadas y aprende a respaldarlas con backends sólidos.
 
-[🌐 Visita mi Portafolio Web](https://shuh3nport.vercel.app/)
+<img src="https://img.shields.io/badge/Estado-Disponible_para_proyectos_y_oportunidades-2EA043?style=for-the-badge" alt="Disponible para proyectos y oportunidades" />
+
+<br>
+
+[🌐 Portafolio](https://shuh3nport.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/santiagoorozcoz) · [📫 Correo](mailto:santiago.orozcoz.dev@gmail.com)
 
 </div>
 
@@ -22,11 +22,13 @@
 
 <img src="assets/title-sobre-mi.svg" alt="Sobre mí" />
 
-- 🎓 Cursando **noveno semestre** de Ingeniería de Sistemas y Computación
-- 🌱 Profundizando en **React, Angular y Spring Boot**
-- ✨ Apasionado por construir con **Framer Motion**: sitios con animaciones y scroll brutales
-- 💼 No estoy trabajando actualmente — abierto a oportunidades y proyectos
-- 📫 Contacto: **santiago.orozcoz.dev@gmail.com**
+| | |
+|---|---|
+| 🎓 **Estudio** | Noveno semestre de Ingeniería de Sistemas y Computación |
+| 🎯 **Foco actual** | React, Angular y Spring Boot |
+| ✨ **Me apasiona** | Animación e interacción con Framer Motion: sitios con scroll y transiciones memorables |
+| 💼 **Disponibilidad** | Abierto a oportunidades, prácticas y proyectos freelance |
+| 📫 **Contacto** | santiago.orozcoz.dev@gmail.com |
 
 ---
 
@@ -34,26 +36,79 @@
 
 <div align="center">
 
-**Actualmente aprendiendo**
+### 🌱 Aprendiendo ahora
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
-**Conocimientos y herramientas**
+### 🧰 Conocimientos y herramientas
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-FFC300?style=for-the-badge&logo=java&logoColor=black" />
-<img src="https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google-sheets&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-FFC300?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google-sheets&logoColor=white" alt="AppSheet" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
+</div>
+
+---
+
+<img src="assets/title-proyectos.svg" alt="Proyectos destacados" />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/Shuh3n/StepUp_ecommerce">StepUP</a></h3>
+      <p>Tienda en línea de una marca de ropa: catálogo con filtros y búsqueda, carrito, autenticación y pagos con Stripe.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+      <p><a href="https://stepupstore.vercel.app/">🔗 Ver demo</a> · <a href="https://github.com/Shuh3n/StepUp_ecommerce">📂 Código</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦷 <a href="https://github.com/Shuh3n/molaris-ops">Molaris Ops</a></h3>
+      <p>App interna para gestionar citas y pacientes en un centro odontológico: calendario, estados de cita y roles de acceso.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <p><a href="https://molaris-ops.vercel.app">🔗 Ver demo</a> · <a href="https://github.com/Shuh3n/molaris-ops">📂 Código</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚦 <a href="https://github.com/Shuh3n/SITRAI-SYSTEM">SITRAI</a></h3>
+      <p>Sistema inteligente de tráfico que prioriza al peatón y a los vehículos de emergencia con un motor de inferencia basado en reglas.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <p><a href="https://sitrai-system.vercel.app">🔗 Ver demo</a> · <a href="https://github.com/Shuh3n/SITRAI-SYSTEM">📂 Código</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/Shuh3n/Pulse-Deploy--Remote-SSH-Orchestrator">Pulse Deploy</a></h3>
+      <p>Panel para desplegar apps Go por SSH: sube un <code>.zip</code>, compila en la VM remota, gestiona servicios <code>systemd</code> y muestra logs en tiempo real.</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" alt="Gin" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+      <p><a href="https://github.com/Shuh3n/Pulse-Deploy--Remote-SSH-Orchestrator">📂 Código</a></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[Ver todos mis repositorios →](https://github.com/Shuh3n?tab=repositories)
 
 </div>
 
@@ -63,19 +118,16 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Shuh3n&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Shuh3n&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <img src="https://streak-stats.demolab.com/?user=Shuh3n&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de Shuh3n" />
+</picture>
 
-<img src="https://img.shields.io/github/followers/Shuh3n?style=for-the-badge&logo=github&label=Followers&color=2488F8" alt="Followers"/>
+<img src="https://ghchart.rshah.org/2488F8/Shuh3n" alt="Calendario de contribuciones de Shuh3n" width="100%" />
 
-### 📉 Actividad
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shuh3n&theme=nightowl&hide_border=true&area=true" alt="Gráfico de actividad de Shuh3n" width="100%"/>
-</a>
+<sub>Generado con <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> y <a href="https://github.com/2016rshah/githubchart-api">githubchart-api</a>.</sub>
 
 </div>
-
-> Generado con [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) y [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
 
 ---
 
@@ -83,23 +135,14 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/santiagoorozcoz" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/photosoz_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:santiago.orozcoz.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Shuh3n" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/santiagoorozcoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/photosoz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:santiago.orozcoz.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://shuh3nport.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-0055FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
+<a href="https://github.com/Shuh3n?tab=followers"><img src="https://img.shields.io/github/followers/Shuh3n?style=for-the-badge&logo=github&label=Seguidores&color=2488F8" alt="Seguidores en GitHub" /></a>
 
-</div>
+<br><br>
 
----
+⭐ Si algo de lo que hago te sirve, considera darle una estrella a mis repositorios.
 
-<div align="center">
-⭐️ Si te gusta lo que hago, considerá darle una estrella a mis repositorios
 </div>
