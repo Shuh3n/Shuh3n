@@ -65,67 +65,20 @@
 
 ---
 
-<img src="assets/title-proyectos.svg" alt="Proyectos destacados" />
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛍️ <a href="https://github.com/Shuh3n/StepUp_ecommerce">StepUP</a></h3>
-      <p>Tienda en línea de una marca de ropa: catálogo con filtros y búsqueda, carrito, autenticación y pagos con Stripe.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-      <p><a href="https://stepupstore.vercel.app/">🔗 Ver demo</a> · <a href="https://github.com/Shuh3n/StepUp_ecommerce">📂 Código</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🦷 <a href="https://github.com/Shuh3n/molaris-ops">Molaris Ops</a></h3>
-      <p>App interna para gestionar citas y pacientes en un centro odontológico: calendario, estados de cita y roles de acceso.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-      <p><a href="https://molaris-ops.vercel.app">🔗 Ver demo</a> · <a href="https://github.com/Shuh3n/molaris-ops">📂 Código</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚦 <a href="https://github.com/Shuh3n/SITRAI-SYSTEM">SITRAI</a></h3>
-      <p>Sistema inteligente de tráfico que prioriza al peatón y a los vehículos de emergencia con un motor de inferencia basado en reglas.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-      <p><a href="https://sitrai-system.vercel.app">🔗 Ver demo</a> · <a href="https://github.com/Shuh3n/SITRAI-SYSTEM">📂 Código</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/Shuh3n/Pulse-Deploy--Remote-SSH-Orchestrator">Pulse Deploy</a></h3>
-      <p>Panel para desplegar apps Go por SSH: sube un <code>.zip</code>, compila en la VM remota, gestiona servicios <code>systemd</code> y muestra logs en tiempo real.</p>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" alt="Gin" />
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
-      <p><a href="https://github.com/Shuh3n/Pulse-Deploy--Remote-SSH-Orchestrator">📂 Código</a></p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-[Ver todos mis repositorios →](https://github.com/Shuh3n?tab=repositories)
-
-</div>
-
----
-
 <img src="assets/title-estadisticas.svg" alt="Estadísticas de GitHub" />
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Shuh3n&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  <img src="https://streak-stats.demolab.com/?user=Shuh3n&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de Shuh3n" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=Shuh3n&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de Shuh3n" />
 
-<img src="https://ghchart.rshah.org/2488F8/Shuh3n" alt="Calendario de contribuciones de Shuh3n" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shuh3n&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas generales de Shuh3n" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuh3n&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más usados por Shuh3n" height="165" />
 
-<sub>Generado con <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> y <a href="https://github.com/2016rshah/githubchart-api">githubchart-api</a>.</sub>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shuh3n&theme=github_dark&utcOffset=-5" alt="Commits de Shuh3n por hora del día" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shuh3n&theme=github_dark" alt="Lenguajes con más commits de Shuh3n" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shuh3n&theme=github_dark" alt="Repositorios por lenguaje de Shuh3n" height="165" />
+
+<sub>Generado con <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>, <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> y <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">profile-summary-cards</a>.</sub>
 
 </div>
 
