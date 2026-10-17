@@ -73,9 +73,7 @@
 
 <img src="assets/activity-chart.svg" alt="Gráfico de líneas con los commits y la actividad diaria de Shuh3n en los últimos 60 días" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shuh3n&theme=github_dark&utcOffset=-5" alt="Commits de Shuh3n por hora del día" />
-
-<sub>Racha con <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>, horas con <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">profile-summary-cards</a>. El gráfico de líneas se genera cada 6 horas con un GitHub Action propio.</sub>
+<sub>Racha con <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>. El gráfico de líneas se genera cada 6 horas con un GitHub Action propio.</sub>
 
 </div>
 
