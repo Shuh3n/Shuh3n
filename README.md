@@ -25,7 +25,7 @@
 | | |
 |---|---|
 | 🎓 **Estudio** | Noveno semestre de Ingeniería de Sistemas y Computación |
-| 🎯 **Foco actual** | React, Angular y Spring Boot |
+| 🎯 **Foco actual** | Flutter y Google Stitch |
 | ✨ **Me apasiona** | Animación e interacción con Framer Motion: sitios con scroll y transiciones memorables |
 | 💼 **Disponibilidad** | Abierto a oportunidades, prácticas y proyectos freelance |
 | 📫 **Contacto** | santiago.orozcoz.dev@gmail.com |
@@ -38,6 +38,11 @@
 
 ### 🌱 Aprendiendo ahora
 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Stitch" />
+
+### ✅ Ya aprendido
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -46,9 +51,6 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-
-### 🧰 Conocimientos y herramientas
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Java-FFC300?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
