@@ -71,14 +71,11 @@
 
 <img src="https://streak-stats.demolab.com/?user=Shuh3n&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de Shuh3n" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shuh3n&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas generales de Shuh3n" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuh3n&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más usados por Shuh3n" height="165" />
+<img src="assets/activity-chart.svg" alt="Gráfico de líneas con los commits y la actividad diaria de Shuh3n en los últimos 60 días" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shuh3n&theme=github_dark&utcOffset=-5" alt="Commits de Shuh3n por hora del día" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shuh3n&theme=github_dark" alt="Lenguajes con más commits de Shuh3n" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shuh3n&theme=github_dark" alt="Repositorios por lenguaje de Shuh3n" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shuh3n&theme=github_dark&utcOffset=-5" alt="Commits de Shuh3n por hora del día" />
 
-<sub>Generado con <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>, <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> y <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">profile-summary-cards</a>.</sub>
+<sub>Racha con <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>, horas con <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">profile-summary-cards</a>. El gráfico de líneas se genera cada 6 horas con un GitHub Action propio.</sub>
 
 </div>
 
@@ -89,10 +86,9 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/santiagoorozcoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/photosoz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:santiago.orozcoz.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://shuh3nport.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-0055FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
-<a href="https://github.com/Shuh3n?tab=followers"><img src="https://img.shields.io/github/followers/Shuh3n?style=for-the-badge&logo=github&label=Seguidores&color=2488F8" alt="Seguidores en GitHub" /></a>
+<a href="https://github.com/Shuh3n"><img src="https://img.shields.io/badge/GitHub-Shuh3n-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br><br>
 
