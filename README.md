@@ -26,7 +26,7 @@
 |---|---|
 | 🎓 **Estudio** | Noveno semestre de Ingeniería de Sistemas y Computación |
 | 🎯 **Foco actual** | Flutter y Google Stitch |
-| ✨ **Me apasiona** | Animación e interacción con Framer Motion: sitios con scroll y transiciones memorables |
+| ✨ **Me apasiona** | Automatizaciones, agentes de IA, chatbots y microanimaciones con motion design (Framer Motion): sitios con scroll y transiciones memorables |
 | 💼 **Disponibilidad** | Abierto a oportunidades, prácticas y proyectos freelance |
 | 📫 **Contacto** | santiago.orozcoz.dev@gmail.com |
 
